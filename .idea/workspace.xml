@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fed516e4-b05b-4c32-8556-b328f78f4a17" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mavenProjectSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/095b4e86-fade-4554-8974-d6eae0ad954c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5761adc9-3b7f-4235-abb8-4cd24c9c89ef-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8eabb1d7-b761-41be-9278-1e05769e9da4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/95156dfb-cbc2-4583-a195-4a11eb9316d1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b8a3cb45-3e4b-4d8f-b8ae-613d27ef21d7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b8f850d6-340e-4279-9a07-d90b44c01f53-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ec2d9363-6cb1-438c-8541-09b789a5ec3d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postman-collection/restful-booker API.postman_collection.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/BookingDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BookingTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/createBookingRequestSchema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/createBookingResponseSchema.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KmON9rW0vUCUdD38GVMqAfQqli" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.testRunning"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.BookingTests.getAllBookingsByUserFirstName_BookingExists_returnOk">
+    <configuration name="BookingTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-automation-tests-challenge-rest-assured" />
+      <shortenClasspath name="ARGS_FILE" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookingTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingTests.getAllBookingsByUserFirstName_BookingExists_returnOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-automation-tests-challenge-rest-assured" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookingTests" />
+      <option name="METHOD_NAME" value="getAllBookingsByUserFirstName_BookingExists_returnOk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingTests.getBookingIds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-automation-tests-challenge-rest-assured" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookingTests" />
+      <option name="METHOD_NAME" value="getBookingIds" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BookingTests.getAllBookingsByUserFirstName_BookingExists_returnOk" />
+      <item itemvalue="JUnit.BookingTests.getBookingIds" />
+      <item itemvalue="JUnit.BookingTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookingTests.getAllBookingsByUserFirstName_BookingExists_returnOk" />
+        <item itemvalue="JUnit.BookingTests.getBookingIds" />
+        <item itemvalue="JUnit.BookingTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fed516e4-b05b-4c32-8556-b328f78f4a17" name="Changes" comment="" />
+      <created>1674576250598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674576250598</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
